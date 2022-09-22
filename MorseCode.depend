@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497544921 source:d:\probleme informatica\morsecode\main.cpp
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
